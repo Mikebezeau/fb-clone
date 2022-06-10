@@ -1,5 +1,5 @@
 .story_reel {
-  flex: 1;
+  flex: auto;
   display: flex;
   align-items: center;
 }
